@@ -1,4 +1,4 @@
-# ✅ To Do List App
+# ✅ Task Management App
 
 A user-friendly task management app that allows users to create, organize, and update tasks using LocalStorage. Tasks can be sorted by status (Next Up, In Progress, Done), and users can customize each task’s background color. Includes search and input validation for better user experience.
 
